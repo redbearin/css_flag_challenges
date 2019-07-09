@@ -1,0 +1,11 @@
+.rect {
+  height: 30vmin;
+  width: 100vmin;
+}
+.top {
+  background-color: red;
+}
+
+.bottom {
+  background-color: white;
+}
